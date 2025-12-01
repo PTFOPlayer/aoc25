@@ -1,0 +1,10 @@
+[package]
+name = "aoc25"
+version = "0.1.0"
+edition = "2024"
+
+[workspace]
+resolver = "3"
+members = ["day1"]
+
+[dependencies]
